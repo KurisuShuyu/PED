@@ -3,6 +3,18 @@ Palvi Executive Dashboard(PED)
 
 Palvi Executive Dashboard
 
+Cómo correr el proyecto localmente
+
+Para revisar este proyecto rápidamente, asegúrate de tener Node.js instalado y elige una de estas opciones:
+
+Opción A (Automática - Windows): Haz doble clic en el archivo run.bat. Esto instalará las dependencias, iniciará el servidor y abrirá tu navegador automáticamente.
+
+Opción B (Manual - Terminal): Abre tu terminal en esta carpeta y ejecuta:
+
+npm install
+
+npm run dev
+
 1. Decisiones técnicas: qué elegiste y por qué
 
 Para construir este dashboard bajo la restricción de tiempo (~3 horas) y enfocado en el caso de uso del Jefe de Ventas (obtener insights en menos de 5 minutos antes de una reunión), tomé las siguientes decisiones:
